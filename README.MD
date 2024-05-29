@@ -1,92 +1,49 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+
+# Projeto Artigo Gerado por I.A.s
 
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+ >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando Artigos Técnicos com ChatGPT e Lexica.art disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
--------
+Projeto com o objetivo um artigo técnico usando as facilidades das ferramentas de IA. Todos os prompts ustilizados na contrução desse projeto seguem abaixo.
 
+<a href="https://web.dio.me/articles/etl-o-processo-de-transformacao-que-maximiza-o-valor-dos-dados?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Leia o artigo completo aqui</a>
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
+## 👩‍💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Openart](https://openart.ai/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## 💢 Prompts
 
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 5 titulo chamativos para um artigo na area de analise de dados considerando os temas mais buscados da web                                                        |
+| conteúdo | Haja como um escritor especialista em artigo sobre O Processo de Transformação que Maximiza o Valor dos Dado e escreva um artigo obedecendo as regras: {REGRAS}> Divida o conteudo em blocos considerando: - Coleta e Integração de Dados, - Limpeza e Pré-processamento de Dados, - Transformação e Enriquecimento de Dados, - Visualização e Comunicação de Dados, > Cada bloco deve ter no maximo 5 linhas > Explique de maneira informal para alguém sem conhecimento tecnico > faça um call action para minhas redes sociais  |
 
 
-Midjourney：
+Openart：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Picture an image illustrating the power of transformation: a giant gear representing the data transformation process, with different types of data being processed and refined, emerging on the other side as valuable, ready-to-use information. In the background, colorful charts and dynamic visualizations depict the wealth of insights that can be gained. The title 'The Data Transformation Process Maximizing Data Value' dominates the image, conveying the idea of optimization and appreciation of information. This image captures the essence of data transformation and its impact on value generation
 
-## ✨ Features
+
+
+
+
+ |
+
+## 📢 Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Openart
+- Edição de Imagens via PowerPoint
 
-## 📚 Materiais
+## 📚🖋️ Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+- Artigo gerado disponível <a href="https://web.dio.me/articles/etl-o-processo-de-transformacao-que-maximiza-o-valor-dos-dados?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Leia o artigo completo aqui</a>

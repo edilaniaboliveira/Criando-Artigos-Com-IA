@@ -4,7 +4,7 @@
 
  >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando Artigos Técnicos com ChatGPT e Lexica.art disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
-Projeto com o objetivo criar um artigo técnico usando as facilidades das ferramentas de IA. Todos os prompts ustilizados na contrução desse projeto seguem abaixo.
+Projeto com o objetivo criar um artigo técnico usando as facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
 <a href="https://web.dio.me/articles/etl-o-processo-de-transformacao-que-maximiza-o-valor-dos-dados?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Leia o artigo completo aqui</a>
 
